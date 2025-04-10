@@ -1,9 +1,8 @@
 ### Hi there. my name Egor Pleb. 👋
 
-- 🔭 I’m currently working on RS School pet project
-- 🌱 I’m currently learning Java Script
-- 🤔 I’m looking for help with HTML, CSS, JS
-- 💬 Ask me about anything, I need friends.
-- 📫 How to reach me? Discrord alwayswannasleep#9370
+- 🔭 I’m currently looking job in Front-end.
+- 🌱 I’m currently keep learning in JS, React, TypeScript.
+- 🤔 I’m looking for help with finding what to code in pet-project.
+- 💬 Ask me about anything, I am open to meeting new peoplem and I need friends!
 - 😄 Pronouns: male
-- ⚡ Fun fact: I don't talk with anyone who making tea in microwave.
+- ⚡ Fun fact: I don't talk with anyone who making tea in microwave. Love music: Collecting vinyl records, CD, cassetes.
