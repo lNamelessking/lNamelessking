@@ -1,4 +1,4 @@
-### Hi there. my name Egor Pleb. 👋
+### Hi there. my name Egor. 👋
 
 - 🔭 I’m currently looking job in Front-end.
 - 🌱 I’m currently keep learning in JS, React, TypeScript.
